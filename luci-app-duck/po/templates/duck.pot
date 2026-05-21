@@ -1,0 +1,59 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Duck"
+msgstr "Duck"
+
+msgid "daed is a integration solution of dae, API and UI."
+msgstr "daed 是 dae 的一体化管理方案，提供 API 和 Web 界面。"
+
+msgid "Global configuration"
+msgstr "全局设置"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Listen address"
+msgstr "监听地址"
+
+msgid "Log max backups"
+msgstr "日志保留数"
+
+msgid "Log max size (MB)"
+msgstr "日志大小(MB)"
+
+msgid "daed Dashboard"
+msgstr "daed 管理面板"
+
+msgid "Open Dashboard"
+msgstr "打开面板"
+
+msgid "Collecting data…"
+msgstr "正在收集数据…"
+
+msgid "RUNNING"
+msgstr "运行中"
+
+msgid "NOT RUNNING"
+msgstr "未运行"
+
+msgid "daed 管理面板"
+msgstr "daed Management Panel"
+
+msgid "daed 日志"
+msgstr "daed Logs"
+
+msgid "新标签页打开"
+msgstr "Open in New Tab"
+
+msgid "暂停"
+msgstr "Pause"
+
+msgid "恢复"
+msgstr "Resume"
+
+msgid "倒序"
+msgstr "Reverse"
+
+msgid "清除"
+msgstr "Clear"

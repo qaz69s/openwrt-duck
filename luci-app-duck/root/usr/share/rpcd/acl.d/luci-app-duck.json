@@ -1,0 +1,37 @@
+{
+  "luci-app-duck": {
+    "read": {
+      "uci": [
+        "duck"
+      ],
+      "ubus": {
+        "service": [
+          "list"
+        ]
+      },
+      "file": {
+        "/var/log/duck/*": [
+          "read"
+        ]
+      }
+    },
+    "write": {
+      "uci": [
+        "duck"
+      ],
+      "ubus": {
+        "luci": [
+          "setInitAction"
+        ]
+      },
+      "file": {
+        "/var/log/duck/*": [
+          "write"
+        ],
+        "/etc/init.d/duck": [
+          "exec"
+        ]
+      }
+    }
+  }
+}

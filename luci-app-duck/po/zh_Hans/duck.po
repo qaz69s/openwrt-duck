@@ -1,0 +1,51 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+msgstr "Last-Translator: qaz69s\nLanguage: zh_Hans\n"
+
+msgid "Duck"
+msgstr "Duck"
+
+msgid "duck is a web UI for dae proxy."
+msgstr "duck 是 dae 代理的 Web 管理面板。"
+
+msgid "Global configuration"
+msgstr "全局设置"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Listen address"
+msgstr "监听地址"
+
+msgid "Log max backups"
+msgstr "日志保留数"
+
+msgid "Log max size (MB)"
+msgstr "日志大小(MB)"
+
+msgid "Collecting data…"
+msgstr "正在收集数据…"
+
+msgid "RUNNING"
+msgstr "运行中"
+
+msgid "NOT RUNNING"
+msgstr "未运行"
+
+msgid "Dashboard"
+msgstr "面板"
+
+msgid "Open Dashboard"
+msgstr "打开面板"
+
+msgid "Duck 日志"
+msgstr "Duck 日志"
+
+msgid "无匹配日志"
+msgstr "无匹配日志"
+
+msgid "日志文件不存在"
+msgstr "日志文件不存在"
+
+msgid "错误"
+msgstr "错误"
